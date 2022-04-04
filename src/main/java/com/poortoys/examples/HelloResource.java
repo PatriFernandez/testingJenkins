@@ -14,7 +14,7 @@ public class HelloResource {
     
     @GET
     public String getMessage() {
-        return "Hello, world";
+        return "Hola a todos!";
     }
     
 }
